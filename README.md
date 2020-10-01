@@ -1,9 +1,9 @@
 NP-COMPLETE TASKS:
 
 1) <i>knapsack.cpp</i> <br>
-    The knapsack problem: Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible<br>
+    The knapsack problem: Given a set of items, each with a weight and a value,determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible<br>
     input: the amount of things, their weight, their value, a given limit.<br>
-    output: the max total value, number of things, that were used to reach max total value.<br>
+    output: the maximum total value, number of things, that were used to reach maximum total value.<br>
     
 2) <i>Vertex-cover</i><br>
     Find a K-vertex cover.
@@ -37,7 +37,7 @@ ALGORITHMS:
    output: sorted text
 
 4) <i>bridges.cpp</i> <br>
-   Finding bridges in graph. <br>
+   Finding bridges in the  graph. <br>
    input: amount of vertexes, list of edges, <br>
    output: numbers of edges-bridges as in input<br>
    
