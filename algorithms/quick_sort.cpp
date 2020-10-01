@@ -1,8 +1,5 @@
-#include <iostream>
-#include <stdio.h>
-#include <cstdio>
-#include <vector>
-#include <cstdlib>
+#include <bits/stdc++.h>
+
 using namespace std;
 pair<int, int> part(vector<int>& v, int x, int l, int r) {
 	vector<int> vm;
